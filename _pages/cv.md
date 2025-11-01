@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/Anna Fulbright Resume 2026.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [awf54@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
 
 ---
 
