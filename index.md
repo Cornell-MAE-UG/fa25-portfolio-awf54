@@ -6,7 +6,7 @@ title: Anna Fulbright
 ## About Me
 
 
-![Profile Picture]({{ "assets/123portrait.JPG" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/123portrait.JPG" | relative_url }}){: class="profile-image"}
 
  {% comment %} 
 My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] 
