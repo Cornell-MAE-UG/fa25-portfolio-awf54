@@ -1,16 +1,25 @@
 ---
 layout: default
-title: <Your Name>
+title: Anna Fulbright
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/123portrait.JPG" | relative_url }}){: class="profile-image"}
 
- 
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+ {% comment %} 
+My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] 
+{% endcomment %}
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Hi! My name is Anna and I am a junior studying mechanical engineering at
+Cornell University. I am interested in how engineering can be used to improve
+lives and connect communities, and have explored this through my participation
+in the Engineers in Action project team at Cornell. Over the past two years, I’ve
+participated in the design and construction of two pedestrian footbridges in
+Eswatini. In both of these projects, I spent two months living with a local
+homestead family and working with the community every day, learning from them
+and growing with them. In my free time, I enjoy hiking, rock climbing, and learning new instruments.
+
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
