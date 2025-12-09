@@ -1,12 +1,14 @@
 ---
 layout: project
-title: Hedge Trimmer Dissection
+title: Fluids Dissection
 description: Dissected a hedge trimmer and analyzed fluid mechanical properties
 technologies: []
-image: /assets/images/function-graph.png
+image: /assets/images/hedgetrimmerphoto.jpg
 ---
 
-As part of a class project, I dissected a hedge trimmer with a team and made a presentation summarizing our findings as well as analyzing the fluid mechnical properties.
+As part of a fluid mechanics class project, I dissected a hedge trimmer with a team and made a presentation summarizing our findings. We started with a fully functional hedge trimmer and spent 3-4 hours taking everything apart while taking detailed notes of the dissection process. We took many pictures throughout the process in order to understand how everything fit together and then analyzed the venturi and carburetor of the system. The following video is our final presentation.
+
+[![Watch the video](https://img.youtube.com/vi/CO9ZUhQ-YNg/0.jpg)](https://www.youtube.com/watch?v=CO9ZUhQ-YNg)
 
 <!--
 <div style="text-align: center;">
