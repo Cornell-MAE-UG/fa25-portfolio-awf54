@@ -6,9 +6,9 @@ technologies: []
 image: /assets/images/function-graph.png
 ---
 
-
 As part of a class project, I dissected a hedge trimmer with a team and made a presentation summarizing our findings as well as analyzing the fluid mechnical properties.
 
+<!--
 <div style="text-align: center;">
 <iframe width="560"
 height="315" src="https://youtu.be/CO9ZUhQ-YNg"
@@ -19,7 +19,7 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 referrerpolicy="strict-origin-when-cross-origin"
 allowfullscreen></iframe>
 </div>
-
+-->
 
 
 
