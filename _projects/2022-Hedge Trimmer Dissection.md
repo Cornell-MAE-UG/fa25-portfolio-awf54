@@ -6,7 +6,7 @@ technologies: []
 image: /assets/images/hedgetrimmerphoto.jpg
 ---
 
-As part of a fluid mechanics class project, I dissected a hedge trimmer with a team and made a presentation summarizing our findings. We started with a fully functional hedge trimmer and spent 3-4 hours taking everything apart while taking detailed notes of the dissection process. We took many pictures throughout the process in order to understand how everything fit together and then analyzed the venturi and carburetor of the system. The following video is our final presentation.
+As part of a fluid mechanics class project, I dissected a hedge trimmer with a team and made a presentation summarizing our findings. We started with a fully functional hedge trimmer and spent 3-4 hours taking everything apart while taking detailed notes of the dissection process. We took many pictures throughout the process in order to understand how everything fit together and then analyzed the venturi and carburetor of the system. As a team, we essentially did the entire dissection process together. I then worked mostly on the resulting slideshow used in the video while other members typed out the calculations, did the voiceover, etc. The following video is our final presentation.
 
 [![Watch the video](https://img.youtube.com/vi/CO9ZUhQ-YNg/0.jpg)](https://www.youtube.com/watch?v=CO9ZUhQ-YNg)
 
